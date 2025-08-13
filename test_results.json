@@ -1,0 +1,133 @@
+{
+  "timestamp": "2025-08-13T15:41:10.550199",
+  "tests": [
+    {
+      "test": "Streamlit import",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Pandas import",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "NumPy import",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Matplotlib import",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Seaborn import",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Plotly import",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Scikit-learn import",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Statsmodels import",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "CSV write",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "CSV read",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Data type check",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Correlation analysis",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Regression analysis",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Decision tree analysis",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "PCA analysis",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Shapiro-Wilk test",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "VIF calculation",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Outlier detection",
+      "status": "PASS",
+      "message": "1個の外れ値を検出"
+    },
+    {
+      "test": "Matplotlib plot",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Plotly plot",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "app.py syntax",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "What-If prediction",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Sensitivity analysis",
+      "status": "PASS",
+      "message": ""
+    },
+    {
+      "test": "Prompt generation",
+      "status": "PASS",
+      "message": "プロンプト長: 207文字"
+    },
+    {
+      "test": "Cleanup test files",
+      "status": "PASS",
+      "message": ""
+    }
+  ],
+  "passed": 25,
+  "failed": 0,
+  "errors": []
+}

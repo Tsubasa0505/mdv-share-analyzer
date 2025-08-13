@@ -1,0 +1,54 @@
+{
+  "timestamp": "2025-08-13T19:09:50.153019",
+  "tests": {
+    "data_generation": "PASS",
+    "imports": [
+      {
+        "library": "streamlit",
+        "status": "OK"
+      },
+      {
+        "library": "pandas",
+        "status": "OK"
+      },
+      {
+        "library": "numpy",
+        "status": "OK"
+      },
+      {
+        "library": "plotly",
+        "status": "OK"
+      },
+      {
+        "library": "sklearn",
+        "status": "OK"
+      },
+      {
+        "library": "statsmodels",
+        "status": "OK"
+      },
+      {
+        "library": "reportlab",
+        "status": "OK"
+      },
+      {
+        "library": "openpyxl",
+        "status": "OK"
+      },
+      {
+        "library": "kaleido",
+        "status": "OK"
+      }
+    ],
+    "pdf_generation": "PASS",
+    "export_utils": "PASS",
+    "analysis_functions": "FAIL",
+    "app_integration": "PASS"
+  },
+  "summary": {
+    "total": 14,
+    "passed": 13,
+    "failed": 1,
+    "skipped": 0
+  }
+}

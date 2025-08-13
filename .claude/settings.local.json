@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm search:*)",
+      "Bash(git clone:*)",
+      "WebSearch",
+      "Bash(powershell:*)",
+      "Bash(docker:*)",
+      "Bash(py:*)",
+      "Bash(C:UsersTsubasaArai.localbinuv.exe venv --python 3.11)",
+      "Bash(python:*)",
+      "Bash(where python)",
+      "Bash(C:UsersTsubasaAraiAppDataLocalMicrosoftWindowsAppspython.exe check_csv.py)",
+      "Bash(py:*)",
+      "Bash(pip install:*)",
+      "Bash(git init:*)",
+      "Bash(taskkill:*)",
+      "Bash(streamlit run:*)",
+      "Bash(copy app.py app_backup.py)",
+      "Bash(dir:*)",
+      "Bash(git remote add:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
